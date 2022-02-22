@@ -13,6 +13,7 @@
 13) What type of values can be in a Python dictionary?
 14) What type of values can be in a Python list?
 15) What data type are True and False?
+boolean
 16) What language does your computer understand?
 17) What do we need in order for your computer to make use of programming languages?
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
