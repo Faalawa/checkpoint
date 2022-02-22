@@ -48,6 +48,7 @@ behind the scene
 21) What are 3 way to create a Python string?
 either surounded by single quotes or double quotes, or no quotes with numbers
 22) What are 2 types of number data types in Python? Provide an example.
+integer ex: 45, float ex: 2.5
 23) Are we able to add two strings together? How?
 24) What commands would you use to create the following file structure? (write every command line by line):
     
