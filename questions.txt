@@ -11,6 +11,7 @@
 11) What can I do to know where I am within my file system?
 12) Describe the anatomy of a Python dictionary and create one below.
 13) What type of values can be in a Python dictionary?
+value pairs
 14) What type of values can be in a Python list?
 15) What data type are True and False?
 16) What language does your computer understand?
