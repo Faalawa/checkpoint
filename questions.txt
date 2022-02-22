@@ -9,6 +9,7 @@
 9) What's the key difference between git revert and git reset?
 10) What's the key difference between Python lists and tuples?
 11) What can I do to know where I am within my file system?
+pwd
 12) Describe the anatomy of a Python dictionary and create one below.
 13) What type of values can be in a Python dictionary?
 14) What type of values can be in a Python list?
