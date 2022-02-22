@@ -33,6 +33,7 @@ thisdict = {"brand": "Ford", "color": "black", "year": 2014}
 13) What type of values can be in a Python dictionary?
 value pairs
 14) What type of values can be in a Python list?
+strings,integer, boolean
 15) What data type are True and False?
 16) What language does your computer understand?
 17) What do we need in order for your computer to make use of programming languages?
