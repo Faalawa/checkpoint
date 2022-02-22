@@ -26,6 +26,7 @@ git reset get rid of the history while rolling back
 list stores items in square brackets
 tuple in round brackets and its collection is ordered and unchangeable
 11) What can I do to know where I am within my file system?
+pwd
 12) Describe the anatomy of a Python dictionary and create one below.
 13) What type of values can be in a Python dictionary?
 14) What type of values can be in a Python list?
