@@ -94,6 +94,7 @@ the Int() method
 30) How can I split a string into a list with each value in the list being a line of the string?
 split(" ")
 31) What are the Python comparison operators? List each and describe.
+less than < and greater than >
 32) What are the Python logical operators? List each and describe.
 33) How can we decide to run one piece of code versus another? Provide an example.
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
