@@ -92,6 +92,7 @@ We can use uper() method
 29) How can I check to see if all of the characters in a string are numbers/digits?
 the Int() method
 30) How can I split a string into a list with each value in the list being a line of the string?
+split(" ")
 31) What are the Python comparison operators? List each and describe.
 32) What are the Python logical operators? List each and describe.
 33) How can we decide to run one piece of code versus another? Provide an example.
